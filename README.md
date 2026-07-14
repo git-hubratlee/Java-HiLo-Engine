@@ -11,3 +11,4 @@ A simple, console-based number guessing game built in Java. The program picks a 
 * **Language:** Java
 * **Infinite Control Loops:** Built using for (;;) structures to manage the game state and replay options.
 * **Core APIs:** Scanner (for reading player input) and Random (for generating the secret number).
+
